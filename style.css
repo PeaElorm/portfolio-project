@@ -50,6 +50,16 @@ h1{
     font-weight: 200;
 }
 
+h3{
+    /* line-height: 100px; */
+    font-weight: 120;
+}
+
+h5{
+    margin-top: 5px;
+    line-height: 0px;
+}
+
 p{
     margin-top: 60px;
 }
@@ -90,4 +100,15 @@ p{
     .side-nav{padding-top: 15px; width:120px}
 }
 
+    /* ABOUT PAGE */
     
+
+    /* EXPERIENCE PAGE */
+
+    #edu-parag{
+        margin-top: 0px;
+    }
+    /* EDUCATION PAGE */
+    /* SKILLS PAGE */
+    /* INTERESTS PAGE */
+    /* AWARDS PAGE */
