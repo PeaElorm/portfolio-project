@@ -58,10 +58,41 @@ h3{
 h5{
     margin-top: 5px;
     line-height: 0px;
+    font-weight: 100;
+    font-size: 16px;
+    color: grey;
 }
 
 p{
     margin-top: 60px;
+}
+
+.section{
+    /* margin-bottom: 150px; */
+    height: 80vh;
+}
+
+#experience h1{
+    margin-top: 2rem;
+    
+}
+
+/* .experience-heading{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+#date{
+display: flex;
+align-items: center;
+/* width: 100%; */
+justify-content: space-between;
+}
+
+.dt{
+    margin-left: 200px;
 }
 
 .span{
